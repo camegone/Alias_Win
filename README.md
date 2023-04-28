@@ -11,3 +11,4 @@ Command line utilitiy, can behave like alias command with persistance.
 # Usage
  1. Simply hit `walias` on your command line, show list of aliases and usage.
  1. Hit `walias np=notepad.exe`, it will register `notepad.exe` as `np`.
+ 1. Hit `unwalias np`, it will delete entry of `np`.
