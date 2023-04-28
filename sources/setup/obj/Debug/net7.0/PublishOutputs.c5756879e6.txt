@@ -1,0 +1,5 @@
+C:\Users\Wataru\Desktop\C-programs\alias_win\sources\setup\bin\Debug\net7.0\publish\setup.exe
+C:\Users\Wataru\Desktop\C-programs\alias_win\sources\setup\bin\Debug\net7.0\publish\setup.dll
+C:\Users\Wataru\Desktop\C-programs\alias_win\sources\setup\bin\Debug\net7.0\publish\setup.deps.json
+C:\Users\Wataru\Desktop\C-programs\alias_win\sources\setup\bin\Debug\net7.0\publish\setup.runtimeconfig.json
+C:\Users\Wataru\Desktop\C-programs\alias_win\sources\setup\bin\Debug\net7.0\publish\setup.pdb

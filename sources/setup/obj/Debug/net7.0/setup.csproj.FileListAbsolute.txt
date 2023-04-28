@@ -1,0 +1,15 @@
+C:\Users\Wataru\Desktop\C-programs\alias_win\sources\setup\bin\Debug\net7.0\setup.exe
+C:\Users\Wataru\Desktop\C-programs\alias_win\sources\setup\bin\Debug\net7.0\setup.deps.json
+C:\Users\Wataru\Desktop\C-programs\alias_win\sources\setup\bin\Debug\net7.0\setup.runtimeconfig.json
+C:\Users\Wataru\Desktop\C-programs\alias_win\sources\setup\bin\Debug\net7.0\setup.dll
+C:\Users\Wataru\Desktop\C-programs\alias_win\sources\setup\bin\Debug\net7.0\setup.pdb
+C:\Users\Wataru\Desktop\C-programs\alias_win\sources\setup\obj\Debug\net7.0\setup.csproj.AssemblyReference.cache
+C:\Users\Wataru\Desktop\C-programs\alias_win\sources\setup\obj\Debug\net7.0\setup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wataru\Desktop\C-programs\alias_win\sources\setup\obj\Debug\net7.0\setup.AssemblyInfoInputs.cache
+C:\Users\Wataru\Desktop\C-programs\alias_win\sources\setup\obj\Debug\net7.0\setup.AssemblyInfo.cs
+C:\Users\Wataru\Desktop\C-programs\alias_win\sources\setup\obj\Debug\net7.0\setup.csproj.CoreCompileInputs.cache
+C:\Users\Wataru\Desktop\C-programs\alias_win\sources\setup\obj\Debug\net7.0\setup.dll
+C:\Users\Wataru\Desktop\C-programs\alias_win\sources\setup\obj\Debug\net7.0\refint\setup.dll
+C:\Users\Wataru\Desktop\C-programs\alias_win\sources\setup\obj\Debug\net7.0\setup.pdb
+C:\Users\Wataru\Desktop\C-programs\alias_win\sources\setup\obj\Debug\net7.0\setup.genruntimeconfig.cache
+C:\Users\Wataru\Desktop\C-programs\alias_win\sources\setup\obj\Debug\net7.0\ref\setup.dll

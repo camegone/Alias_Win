@@ -1,0 +1,2 @@
+C:\Users\Wataru\Desktop\C-programs\alias_win\sources\setup\bin\Debug\net7.0\win10-x64\publish\setup.pdb
+C:\Users\Wataru\Desktop\C-programs\alias_win\sources\setup\bin\Debug\net7.0\win10-x64\publish\setup.exe
